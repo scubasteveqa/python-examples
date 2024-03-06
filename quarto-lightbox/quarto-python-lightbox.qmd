@@ -1,5 +1,5 @@
 ---
-title: "Quarto matplotlib and lightbox demo"
+title: "Quarto matplotlib and lightbox demo - republished"
 filters:
    - lightbox
 lightbox: auto
